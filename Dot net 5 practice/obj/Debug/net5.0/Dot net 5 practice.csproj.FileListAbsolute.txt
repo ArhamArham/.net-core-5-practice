@@ -1,0 +1,29 @@
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\appsettings.Development.json
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\appsettings.json
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Dot net 5 practice.exe
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Dot net 5 practice.deps.json
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Dot net 5 practice.runtimeconfig.json
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Dot net 5 practice.runtimeconfig.dev.json
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Dot net 5 practice.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\ref\Dot net 5 practice.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Dot net 5 practice.pdb
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.csprojAssemblyReference.cache
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.AssemblyInfoInputs.cache
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.AssemblyInfo.cs
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.csproj.CoreCompileInputs.cache
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.MvcApplicationPartsAssemblyInfo.cs
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.MvcApplicationPartsAssemblyInfo.cache
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\staticwebassets\Dot net 5 practice.StaticWebAssets.Manifest.cache
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\staticwebassets\Dot net 5 practice.StaticWebAssets.xml
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\scopedcss\bundle\Dot net 5 practice.styles.css
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.RazorTargetAssemblyInfo.cache
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.csproj.CopyComplete
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\ref\Dot net 5 practice.dll
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.pdb
+C:\DotNet\Dot net 5 practice\Dot net 5 practice\obj\Debug\net5.0\Dot net 5 practice.genruntimeconfig.cache
