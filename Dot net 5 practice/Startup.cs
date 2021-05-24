@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Dot_net_5_practice.Data;
+using Dot_net_5_practice.Data.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,10 +33,13 @@ namespace Dot_net_5_practice
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            
-            //Configure DbConext with SQL
+
+            //Configure DbContext with SQL
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConnectionString));
-            
+
+            //Configure Services
+            services.AddTransient<BookService>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "Dot_net_5_practice", Version = "v1"});
@@ -59,6 +63,9 @@ namespace Dot_net_5_practice
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
+
+            //Db Seeder
+            AppDbInitializer.Seed(app);
         }
     }
 }
